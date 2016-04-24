@@ -1,0 +1,4 @@
+Example of data that cannot be stored in int variable 
+
+string
+Double 
